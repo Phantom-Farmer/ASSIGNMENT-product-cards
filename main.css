@@ -1,3 +1,76 @@
 body {
   background-color: aquamarine;
 }
+
+.card {
+  margin: 9px;
+}
+
+.flexbox-container {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.flexbox-container2 {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.card-text {
+font-family: 'Orelega One', Cursive;
+padding: 7px;
+}
+
+
+
+h2 {
+  text-align: center;
+  border: 1px solid lightblue;
+  padding: 7px;
+  color: brown;
+  background-color: lightgoldenrodyellow;
+}
+
+.spec {
+  font-weight: bold;
+}
+
+.avail {
+  background-color: darkgray;
+  color: yellow;
+  text-align: center;
+
+}
+
+.card-body {
+  padding: 0px;
+}
+
+img {
+  padding: 7px;
+}
+
+.spec {
+  text-align: center;
+  padding: 7px;
+
+}
+
+.size {
+  padding: 12px;
+}
+
+.weight {
+  padding: 12px;
+}
+
+article {
+  text-align: center;
+  font-family: fantasy;
+}
+
+footer {
+ color: brown;
+}
